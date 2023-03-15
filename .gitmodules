@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "avocado"]
+	path = avocado
+	url = https://github.com/nikdata/avocado
+	shallow = true
+	registered = true
+[submodule "ialiquor"]
+	path = ialiquor
+	url = https://github.com/nikdata/ialiquor
+	shallow = true
+	registered = true
 [submodule "RClimacell"]
 	path = RClimacell
 	url = https://github.com/nikdata/rclimacell

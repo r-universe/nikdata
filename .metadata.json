@@ -1,5 +1,13 @@
 [
   {
+    "package": "avocado",
+    "oncran": true
+  },
+  {
+    "package": "ialiquor",
+    "oncran": true
+  },
+  {
     "package": "RClimacell",
     "oncran": true
   }
