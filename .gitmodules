@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RClimacell"]
+	path = RClimacell
+	url = https://github.com/nikdata/rclimacell
 [submodule "avocado"]
 	path = avocado
 	url = https://github.com/nikdata/avocado
 [submodule "ialiquor"]
 	path = ialiquor
 	url = https://github.com/nikdata/ialiquor
-[submodule "RClimacell"]
-	path = RClimacell
-	url = https://github.com/nikdata/rclimacell
